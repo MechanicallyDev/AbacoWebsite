@@ -1,5 +1,6 @@
 {
-  "name": "web",
+  "name": "abaco-website",
+  "homepage": "https://abaco-website-ldkos.ondigitalocean.app/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
