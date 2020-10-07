@@ -18,7 +18,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "rm -r _static 2>/dev/null; node sammy.js; react-scripts build && mv build _static",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
