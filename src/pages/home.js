@@ -105,7 +105,7 @@ export default function Home() {
               <div className="p-5">
                 <lottie-player
                   className="img-fluid"
-                  src="https://assets5.lottiefiles.com/private_files/lf30_DmBoxg.json"
+                  src="https://assets10.lottiefiles.com/packages/lf20_iCs1OM.json"
                   background="transparent"
                   speed="1"
                   style={{width: '100%', height: 'auto'}}
