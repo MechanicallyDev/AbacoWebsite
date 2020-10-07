@@ -53,7 +53,7 @@ export default function Home() {
             </div>
             <div className="col-lg-6 order-lg-1">
               <div className="p-5">
-                <h2 className="display-4">
+                <h2 className="display-4" style={{fontSize:'clamp(22px,5vw,56px)'}}>
                   Vídeos curtos e divertidos para redes sociais
                   <br />
                 </h2>
@@ -86,7 +86,7 @@ export default function Home() {
             </div>
             <div className="col-lg-6 order-lg-2">
               <div className="p-5">
-                <h2 className="display-4">O que te oferecemos?</h2>
+                <h2 className="display-4" style={{fontSize:'clamp(22px,5vw,56px)'}}>O que te oferecemos?</h2>
                 <p>
                   <br />A nossa missão é ajudar nossos clientes vender mais,
                   através de projetos exclusivos de vídeos de propaganda para
@@ -116,7 +116,7 @@ export default function Home() {
             </div>
             <div className="col-lg-6 order-lg-1">
               <div className="p-5">
-                <h2 className="display-4">Por que usar?</h2>
+                <h2 className="display-4" style={{fontSize:'clamp(22px,5vw,56px)'}}>Por que usar?</h2>
                 <p>
                   Vídeos curtos e animados prendem mais a atenção do público
                   <br />
